@@ -80,9 +80,6 @@ git push origin minha-feature
 
 	5.	Abra um pull request.
 
-📜 Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 👥 Autores
 
@@ -92,4 +89,3 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 
  acesse o site ao vivo: Parque Parahyba IV.
 
-Agora é só salvar esse README no repositório, fazer o commit e subir as alterações! Se precisar de mais ajuda, é só pedir
